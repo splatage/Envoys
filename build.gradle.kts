@@ -29,7 +29,7 @@ repositories {
     maven(url = "https://hub.spigotmc.org/nexus/content/repositories/snapshots")
     maven(url = "https://oss.sonatype.org/content/repositories/snapshots")
     maven(url = "https://repo.extendedclip.com/content/repositories/placeholderapi/")
-    maven(url = "https://maven.sk89q.com/repo")
+    maven(url = "https://maven.enginehub.org/repo/")
     maven(url = "https://libraries.minecraft.net")
     maven(url = "https://papermc.io/repo/repository/maven-public/")
 }
