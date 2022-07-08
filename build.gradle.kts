@@ -51,7 +51,7 @@ dependencies {
     compileOnly("me.clip:placeholderapi:2.8.2")
     compileOnly("com.gmail.filoghost.holographicdisplays:holographicdisplays-api:2.4.0")
 
-    compileOnly("com.github.TechFortress:GriefPrevention:16.7.1") {
+    compileOnly("com.github.TechFortress:GriefPrevention:16.18") {
         exclude("com.sk89q.worldedit", "worldedit-bukkit")
         exclude("com.sk89q", "worldguard")
         exclude("org.bukkit", "bukkit")
